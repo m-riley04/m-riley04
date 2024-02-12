@@ -1,7 +1,7 @@
 # Riley Meyerkorth 👨‍💻
 
 
-<img src="https://raw.githubusercontent.com/m-riley04/m-riley04/main/linkedin-photo.jpg" width="300px" height="300px" alt="professional picture of me"/>
+<img src="https://raw.githubusercontent.com/m-riley04/m-riley04/main/linkedin-photo.jpg" style="display: inline-flex" width="300px" height="300px" alt="professional picture of me"/>
 
 - ♂️ Pronouns: he/him/his
 - 🎓 Education: University of Kansas
