@@ -6,6 +6,7 @@
 <a href="https://open.spotify.com/user/jw9kmb3zsr15u247o3sq0k26m?si=851ba7c4ff4540c4" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://restlessmedicine.com" target="_blank"><img src="" alt="Portfolio"></a>
 
+<br/>
 
 - ♂️ Pronouns: he/him/his
 - 🎓 Education: University of Kansas
