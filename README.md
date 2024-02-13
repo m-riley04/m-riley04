@@ -27,6 +27,10 @@
 <!-- Leetcode Stats (hidden until I work on them)-->
 <!-- ![Riley's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=m-riley04) -->
 
+<!-- GitHub Stats -->
+<img src="https://myreadme.vercel.app/api/embed/m-riley04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
 ## Fun Fact
 - Professional violinist for over 16 years
     - 3rd Place in the National Oldtime Fiddlers' Contest (2016)
