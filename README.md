@@ -6,7 +6,8 @@
 <a href="https://open.spotify.com/user/jw9kmb3zsr15u247o3sq0k26m?si=851ba7c4ff4540c4" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://restlessmedicine.com" target="_blank"><img src="" alt="Portfolio"></a>
 
-<br/>
+<br>
+<br>
 
 - ♂️ Pronouns: he/him/his
 - 🎓 Education: University of Kansas
@@ -20,7 +21,7 @@
 - API/Libraries: React.js, Exiv2, Anki, SpotifyAPI, OpenAI, REST API
 - Other: LaTeX, soldering/wiring, graphic design, DSLR photography and videography
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-riley04&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Fun Fact
 - Professional violinist for over 16 years
