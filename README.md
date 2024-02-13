@@ -21,7 +21,11 @@
 - API/Libraries: React.js, Exiv2, Anki, SpotifyAPI, OpenAI, REST API
 - Other: LaTeX, soldering/wiring, graphic design, DSLR photography and videography
 
+<!-- Langauges stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-riley04&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<!-- Leetcode Stats -->
+![Riley's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=m-riley04)
 
 ## Fun Fact
 - Professional violinist for over 16 years
