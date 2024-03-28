@@ -9,7 +9,6 @@
 <br>
 <br>
 
-- ♂️ Pronouns: he/him/his
 - 🎓 Education: University of Kansas
 - 📜 Degree: Bachelor of Science (in-progress)
 - 🖥️ Major: Computer Science
