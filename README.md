@@ -14,7 +14,7 @@
 - 🖥️ Major: Computer Science
 
 ## Skills
-- Languages: Python, C, C++, C#, GML, SQL, JavaScript, TypeScript, HTML/CSS
+- Languages: Python, C#, C++, C, GML, SQL, JavaScript, TypeScript, HTML/CSS
 - Frameworks: Qt, Tkinter, WordPress, Node.js
 - Developer Tools: Git, Docker, Azure, Google Cloud, VS Code, Visual Studio, Unity, Unreal Engine, GameMaker Studio 2, ArduinoIDE
 - API/Libraries: React.js, Exiv2, Anki, SpotifyAPI, OpenAI, REST API
