@@ -24,7 +24,7 @@
 <!-- ![Riley's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=m-riley04) -->
 
 <!-- GitHub Stats -->
-<img src="https://myreadme.vercel.app/api/embed/m-riley04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--<img src="https://myreadme.vercel.app/api/embed/m-riley04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
 
 
 ## Fun Fact
