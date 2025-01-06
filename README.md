@@ -34,4 +34,4 @@
     - 13+ first place medals across US fiddle competitions (2013-2014)
 
 ## Contact
-- email: [rileymeyerkorth@ku.edu](mailto:rileymeyerkorth@ku.edu)
+- email: [rileymeyerkorth@ku.edu](mailto:rileymeyerkorth@gmail.com)
