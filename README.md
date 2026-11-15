@@ -10,7 +10,7 @@
 <br>
 
 - 🎓 Education: University of Kansas
-- 📜 Degree: Bachelor of Science (in-progress)
+- 📜 Degree: Bachelor of Science
 - 🖥️ Major: Computer Science
 
 ## Skills
