@@ -14,24 +14,17 @@
 - 🖥️ Major: Computer Science
 
 ## Skills
-- Languages: Python, C#, C++, C, GML, SQL, JavaScript, TypeScript, HTML/CSS
+- Languages: C, C++, C#, Python,  GML, SQL, JavaScript, TypeScript, HTML/CSS
 - Frameworks: Qt, Node.js
 - Developer Tools: Git, Docker, Azure, Google Cloud, VS Code, Visual Studio, Unity, Unreal Engine, GameMaker Studio 2, ArduinoIDE
 - API/Libraries: React.js, Exiv2, Anki, SpotifyAPI, OpenAI, RESTful APIs
 - Other: soldering/wiring, LaTeX, graphic design, DSLR photography and videography
 
-<!-- Leetcode Stats (hidden until I work on them)-->
-<!-- ![Riley's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=m-riley04) -->
-
-<!-- GitHub Stats -->
-<!--<img src="https://myreadme.vercel.app/api/embed/m-riley04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-
-
 ## Fun Fact
-- Professional violinist for over 17 years
+- Professional violinist for over 19 years
     - 3rd Place in the National Oldtime Fiddlers' Contest (2016)
     - Suzuki Strings Institute methodology
     - 13+ first place medals across US fiddle competitions (2013-2014)
 
 ## Contact
-- email: [rileymeyerkorth@ku.edu](mailto:rileymeyerkorth@gmail.com)
+- email: [rileymeyerkorth@gmail.com](mailto:rileymeyerkorth@gmail.com)
