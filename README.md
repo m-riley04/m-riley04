@@ -14,11 +14,12 @@
 - 🖥️ Major: Computer Science
 
 ## Skills
-- Languages: C, C++, C#, Python,  GML, SQL, JavaScript, TypeScript, HTML/CSS
+- Languages: C, C++, C#, Python, TypeScript, HTML/CSS
 - Frameworks: Qt, Node.js
-- Developer Tools: Git, Docker, Azure, Google Cloud, VS Code, Visual Studio, Unity, Unreal Engine, GameMaker Studio 2, ArduinoIDE
-- API/Libraries: React.js, Exiv2, Anki, SpotifyAPI, OpenAI, RESTful APIs
-- Other: soldering/wiring, LaTeX, graphic design, DSLR photography and videography
+- Libraries: React.js, SpotifyAPI
+- Other: soldering/wiring, LaTeX, graphic design, DSLR photography and videography, FLIR camera tech
+
+For a full list of skills/more information, visit <a href="https://rileymeyerkorth.com" target="_blank">my website</a>.
 
 ## Fun Fact
 - Professional violinist for over 19 years
